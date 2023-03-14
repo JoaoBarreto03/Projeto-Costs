@@ -13,10 +13,10 @@
     },
     {
       "name": "Gol GTi",
-      "budget": "52000",
+      "budget": "105000",
       "category": {
-        "id": "1",
-        "name": "Infra"
+        "id": "3",
+        "name": "Design"
       },
       "cost": 0,
       "services": [],
