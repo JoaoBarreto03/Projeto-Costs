@@ -7,8 +7,15 @@
         "id": "3",
         "name": "Design"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 15000,
+      "services": [
+        {
+          "name": "Swap",
+          "cost": "15000",
+          "description": "Motor 2JZ preparado para o Virtus + caixa de câmbio manual",
+          "id": "b03a6287-3485-4a3a-9968-53c52d25f0f6"
+        }
+      ],
       "id": 2
     },
     {
