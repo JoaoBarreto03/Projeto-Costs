@@ -7,13 +7,25 @@
         "id": "3",
         "name": "Design"
       },
-      "cost": 15000,
+      "cost": 23000,
       "services": [
         {
           "name": "Swap",
           "cost": "15000",
           "description": "Motor 2JZ preparado para o Virtus + caixa de câmbio manual",
           "id": "b03a6287-3485-4a3a-9968-53c52d25f0f6"
+        },
+        {
+          "name": "Roda aro 17",
+          "cost": "4000",
+          "description": "Rodas aro 17 para o Virtus modelo Highline",
+          "id": "6b8e7e72-40d6-49d5-8100-8f64741b93bd"
+        },
+        {
+          "name": "Roda aro 17",
+          "cost": "4000",
+          "description": "Rodas aro 17 para o Virtus modelo Highline",
+          "id": "6b8e7e72-40d6-49d5-8100-8f64741b93bd"
         }
       ],
       "id": 2
